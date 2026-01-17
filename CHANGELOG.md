@@ -2,6 +2,12 @@
 
 All notable changes to MobAI will be documented in this file.
 
+## [0.2.2] - 2025-01-17
+
+### Improved
+
+- iOS on Windows experience
+
 ## [0.2.1] - 2025-01-17
 
 ### Added
