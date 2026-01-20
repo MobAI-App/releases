@@ -2,6 +2,18 @@
 
 All notable changes to MobAI will be documented in this file.
 
+## [0.2.7] - 2025-01-20
+
+### Improved
+
+- Improvements
+
+## [0.2.6] - 2025-01-19
+
+### Fixed
+
+- Bugfix
+
 ## [0.2.5] - 2025-01-19
 
 ### Fixed
