@@ -2,6 +2,12 @@
 
 All notable changes to MobAI will be documented in this file.
 
+## [0.3.0] - 2025-01-23
+
+### Added
+
+- Support for [ios-builder](https://github.com/MobAI-App/ios-builder)
+
 ## [0.2.7] - 2025-01-20
 
 ### Improved
